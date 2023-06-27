@@ -25,8 +25,7 @@
 <img alt = "Skills" src = "https://github.com/C-Logesh-Perumal-29/C-Logesh-Perumal-29/assets/125385633/1288a168-b4b3-4881-bd52-a98893a5b49b">
 
 
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-logesh-perumal-29&show_icons=true&locale=en&layout=compact" alt="c-logesh-perumal-29" /></p>
+
 
 
 
