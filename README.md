@@ -28,6 +28,12 @@
 
 <br>
 
+<h1> My Favourite Editor's & IDE's</h1>
+
+![Fav IDE](https://github.com/C-Logesh-Perumal-29/C-Logesh-Perumal-29/assets/125385633/74c60003-5d78-4211-9f04-334d608fb814)
+
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-logesh-perumal-29&show_icons=true&locale=en" alt="c-logesh-perumal-29" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-logesh-perumal-29&show_icons=true&locale=en&layout=compact" alt="c-logesh-perumal-29" /></p>
