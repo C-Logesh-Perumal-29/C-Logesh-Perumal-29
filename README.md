@@ -26,9 +26,7 @@
 
 ![Github Skills](https://github.com/C-Logesh-Perumal-29/C-Logesh-Perumal-29/assets/125385633/721f143b-33d6-4103-9951-77b4d8886af2)
 
-<br>
-
-<h1> My Favourite Editor's & IDE's</h1>
+<h2> My Favourite Editor's & IDE's</h2>
 
 ![Fav IDE](https://github.com/C-Logesh-Perumal-29/C-Logesh-Perumal-29/assets/125385633/74c60003-5d78-4211-9f04-334d608fb814)
 
