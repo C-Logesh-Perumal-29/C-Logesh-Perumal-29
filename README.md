@@ -37,3 +37,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-logesh-perumal-29&show_icons=true&locale=en&layout=compact" alt="c-logesh-perumal-29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c-logesh-perumal-29&" alt="c-logesh-perumal-29" /></p>
+
+## Credits:
+
+  > 👉 **©️ Credits** goes to the **owner** of `all images`. _Thank You_ for all the _**Image Creaters**_ to `build this amazing profile` 🤝...
