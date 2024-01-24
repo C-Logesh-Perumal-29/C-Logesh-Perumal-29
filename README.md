@@ -24,11 +24,11 @@
 
 <h3 align="left">Tech Stack:</h3>
 
-![Github Skills](https://github.com/C-Logesh-Perumal-29/C-Logesh-Perumal-29/assets/125385633/721f143b-33d6-4103-9951-77b4d8886af2)
+![Skills](https://github.com/C-Logesh-Perumal-29/C-Logesh-Perumal-29/assets/125385633/a3b2a915-68be-438d-a91b-67e50f6dd3a6)
 
 <h3> My Favourite Editor's & IDE's</h3>
 
-![Fav IDE](https://github.com/C-Logesh-Perumal-29/C-Logesh-Perumal-29/assets/125385633/74c60003-5d78-4211-9f04-334d608fb814)
+![IDE's Image](https://github.com/C-Logesh-Perumal-29/C-Logesh-Perumal-29/assets/125385633/abe7eaf7-5a97-41d2-8ef9-d0ecd4c307fe)
 
 <br>
 
