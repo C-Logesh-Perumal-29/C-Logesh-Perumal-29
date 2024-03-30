@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence Technology**
 
-- 📫 How to reach me **clogeshperumal@gmail.com**
+- 📫 How to reach me **clogeshperumal2004@gmail.com**
 
 - ⚡ Fun fact **Money is nothing, but money is everything...**
 
