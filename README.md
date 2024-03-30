@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/logesh-perumal-c-124465230/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="logesh perumal.c" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/logesh-perumal-c/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="logesh perumal.c" height="50" width="50" /></a>
 </p>
 
 <br>
