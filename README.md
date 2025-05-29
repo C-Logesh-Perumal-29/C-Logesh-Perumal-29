@@ -43,9 +43,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🐍 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3B7CBA?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-2C6CAB?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1D5DAA?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 ### 📊 Data Analysis & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
