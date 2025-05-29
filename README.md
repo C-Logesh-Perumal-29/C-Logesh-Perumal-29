@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=c-logesh-perumal-29&label=Profile%20views&color=6366f1&style=flat-square" alt="c-logesh-perumal-29" />
   </p>
   
-  <img align="right" alt="Coding Animation" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+  <img align="right" alt="Coding Animation" width="370" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 </div>
 
 <br>
@@ -92,7 +92,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-logesh-perumal-29)
 
 </div>
-
-## Credits:
-
-  > 👉 **©️ Credits** goes to the **owner** of `all images`. _Thank You_ for all the _**Image Creaters**_ to `build this amazing profile` 🤝...
