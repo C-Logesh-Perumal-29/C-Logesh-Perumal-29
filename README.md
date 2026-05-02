@@ -10,9 +10,7 @@
 <!--                     TYPING ANIMATION                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=C8963E&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🤖+Building+Intelligent+AI+Systems;🔗+LangChain+%7C+LangGraph+%7C+RAG+%7C+MCP;🧠+LLMs+%7C+Generative+AI+%7C+Agentic+AI;👁️+Computer+Vision+%7C+Deep+Learning;🚀+Full+Stack+AI-Powered+Applications" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C8963E&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+Intelligent+AI+Systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+MCP;LLMs+%7C+Generative+AI+%7C+Agentic+AI;Computer+Vision+%7C+Deep+Learning;Full+Stack+AI-Powered+Applications" alt="Typing SVG" />
 
 <br/>
 
@@ -309,21 +307,21 @@ class LogeshPerumal:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=c-logesh-perumal-29&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0D1B3E&title_color=C8963E&icon_color=C8963E&text_color=FFFFFF&ring_color=C8963E" />
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=c-logesh-perumal-29&show_icons=true&hide_border=true&count_private=true&bg_color=0D1B3E&title_color=C8963E&icon_color=C8963E&text_color=FFFFFF" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-logesh-perumal-29&hide_border=true&layout=compact&theme=tokyonight&bg_color=0D1B3E&title_color=C8963E&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=c-logesh-perumal-29&hide_border=true&layout=compact&bg_color=0D1B3E&title_color=C8963E&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=c-logesh-perumal-29&theme=tokyonight&hide_border=true&background=0D1B3E&stroke=C8963E&ring=C8963E&fire=FF6B35&currStreakLabel=C8963E&sideLabels=FFFFFF&dates=8A96B4&sideNums=FFFFFF&currStreakNum=FFFFFF" />
+<img width="70%" src="https://streak-stats.demolab.com?user=c-logesh-perumal-29&theme=tokyonight&hide_border=true&background=0D1B3E&stroke=C8963E&ring=C8963E&fire=FF6B35&currStreakLabel=C8963E&sideLabels=FFFFFF&dates=8A96B4&sideNums=FFFFFF&currStreakNum=FFFFFF" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=c-logesh-perumal-29&bg_color=0D1B3E&color=C8963E&line=1A3260&point=C8963E&area=true&hide_border=true&area_color=1A3260" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=c-logesh-perumal-29&bg_color=0D1B3E&color=C8963E&line=C8963E&point=FFFFFF&area=true&hide_border=true&area_color=1A3260&custom_title=Logesh+Contribution+Graph" />
 
 </div>
 
